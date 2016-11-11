@@ -1,0 +1,43 @@
+body{
+  width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border: 2px solid black;
+  font-family: serif;
+  font-size: 16px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+h1{
+  text-align: center;
+}
+
+address{
+  display: block;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+nav{
+  display: none;
+}
+
+img{
+  display: none;
+}
+
+main{
+  padding-left: 70px;
+}
+
+footer{
+  display: none;
+}
